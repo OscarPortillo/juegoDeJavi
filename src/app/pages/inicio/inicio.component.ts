@@ -6,7 +6,7 @@ import { Component, OnInit, HostListener, ElementRef } from '@angular/core';
   styleUrls: ['./inicio.component.css']
 })
 export class InicioComponent implements OnInit {
-  private arrayColores=["red","yellow","blue","purple","pink","green","brown","violet","pink","aqua","orange","olive","teal","cyan","salmon","peach"];
+  private arrayColores=["red","blue","purple","pink","green","brown","violet","pink","aqua","orange","olive","teal","cyan","salmon","peach"];
   private pruebas=[
 "El/La jugador de mi derecha bebe 2 tragos", 
 "Yo nunca  he perreado con BadBunny",
