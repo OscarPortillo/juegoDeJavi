@@ -13,6 +13,13 @@ export class InicioComponent implements OnInit {
 "El/La mas menor del grupo bebe 3 tragos",
 "El/La mas mayor del grupo mandar beber 6 tragos(repartidos)",
 "El/La mas menor del grupo mandar beber 6 tragos(repartidos)",
+"A votacion popular se eligen 2 jugadores y se tendran que pasar un chupito entre ellos",
+"A votacion popular se eligen 2 jugadores y uno de ellos tendra que beber un chupito del omgligo del otro",
+"Yo nunca nunca he tenido sexo en este lugar",
+"Los jugadores/as elegiran quien tiene que hacer 3 burpees, si se niega debera beber 5 tragos",
+"Yo nunca nunca he cantado Tusa gritando",
+"El/La jugador mas bailonga tiene que bailar teerk durante 5 segundas, si no bebe 4 tragos"
+
 
 
 
